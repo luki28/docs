@@ -26,7 +26,9 @@ The green circle marks a cutout in one of the acrylic panels meant for passing t
 | 2020 extrusion (100mm)                | 4        | **Layer**: 2                 | ![2020 100mm]                 |
 | M5 x 25mm                             | 4        | **Layer**: 3<br/> **Box**: 6 |                               |
 | M4 t-nut                              | 12       |                              |                               |
-| M4 x 10mm                             | 8        |                              |                               |
+| M4 x 10mm                             | 4        |                              |                               |
+| M4 x 12mm                             | 2        |                              |                               |
+| M4 x 16mm                             | 2        |                              |                               |
 | M3 t-nut                              | 36       |                              | Use roll-in type if available |
 | M3 x 10mm                             | 36       |                              |                               |
 | 4mm x 50mm pin                        | 2        |                              |                               |
